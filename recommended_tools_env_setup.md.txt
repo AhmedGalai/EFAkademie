@@ -1,2 +1,0 @@
-﻿
-recommended_tools_env_setup
